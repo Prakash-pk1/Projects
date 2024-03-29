@@ -1,9 +1,1 @@
-package org.task;
 
-public abstract class Partial {
-		public void fruits() {
-			System.out.println("apple");
-		}
-		public abstract void vegetable();
-
-}
